@@ -13,7 +13,7 @@ public class Main {
 //            case 3:;
 //            case 5: System.out.println("Dasi chenq");break;
 //            case 7: System.out.println("Kiraki"); break;
-//            default: System.out.println("mi ban sxal es gre");
+//            default: System.out.println("mi ban sxal es gre"); }
 
 
 
